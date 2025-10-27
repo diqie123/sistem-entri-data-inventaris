@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Entri Data Inventaris",
+  "description": "A comprehensive web application to efficiently input, manage, store, and view inventory data through an intuitive interface. It features real-time validation, interactive data tables, advanced search, and a clean, responsive design.",
+  "requestFramePermissions": []
+}
